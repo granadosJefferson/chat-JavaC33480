@@ -14,7 +14,9 @@ Aplicación de chat cliente-servidor en Java que permite:
 \* Mensajería privada
 
 
+
 \## Compilación
+
 
 
 Ubíquese en la carpeta del proyecto y ejecute:
@@ -26,13 +28,16 @@ javac jchat/\*.java
 \## Ejecución
 
 
+
 \### 1. Iniciar servidor
 
 
 java jchat.Servidor
 
 
+
 \### 2. Iniciar clientes (en diferentes terminales)
+
 
 
 java jchat.Cliente
@@ -126,6 +131,8 @@ Esto permite:
 \* Identificar usuarios únicos
 
 \* Enviar mensajes directos fácilmente
+
+
 
 
 \## 2. Gestión de usuarios
@@ -235,7 +242,7 @@ El uso de Map permite escalabilidad y eficiencia en la búsqueda de usuarios.
 
 
 
-Imágenes de prueba: 
+Imágenes de prueba en netbeans: 
 
 
 
